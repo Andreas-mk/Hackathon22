@@ -181,7 +181,7 @@ public class Hackathon22 extends EasyGraphics {
 
     for (int l = 0; l<spillet.length; l++)
       spillet[l] = l;
-
+    // Var problem med trekk 3
     spillet[1] = 11;
 
 
